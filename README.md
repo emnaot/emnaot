@@ -44,7 +44,9 @@ Hello! I'm **Emna Othmen** 👋 – a passionate web developer specializing in m
 **Role:** Full-Stack Developer  
 An app that automates talent management by streamlining employee search, CV management, and role-based access, reducing administrative workload and optimizing resource allocation.  
 
-**Skills:** React, .NET Core, Azure Cosmos DB, GraphAPI, Azure Entra ID, Azure Document Intelligence 
+**Skills:** React, .NET Core, Azure Cosmos DB, GraphAPI, Azure Entra ID, Azure Document Intelligence  
+
+**Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=iz_Qoo0w5eo&t=120s)
 
 
 ### 🌐 [Vape Store E-commerce Platform](https://github.com/emnaot/VapeLhaj)  
@@ -53,13 +55,14 @@ An e-commerce platform for a vape store, designed to offer a seamless shopping e
 
 **Skills:** React, ExpressJS, MongoDB, Stripe, Tailwind CSS  
 
+**Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=9yBf5LDiSpw&t=7s)
+
 
 ### 🧠 [Medical Appointment and Patient Management System](https://github.com/emnaot/Dr-Antoine-Pelissolo)  
 **Role:** Full-Stack Developer  
 An app for healthcare facilities, enabling online appointment booking and secure patient record management. It improves scheduling and coordination of patient care with tools for managing consultations and prescriptions.  
 
 **Skills:** HTML5, Bootstrap, JavaScript, Laravel, MySQL  
-
 
 ---
 
