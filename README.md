@@ -69,9 +69,10 @@ An app for healthcare facilities, enabling online appointment booking and secure
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emnaot&show_icons=true&theme=radical&hide_border=true" alt="Emna's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnaot&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emnaot&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Emna's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnaot&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top languages"/>
 </p>
+
 
 
 ---
