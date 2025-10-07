@@ -40,6 +40,7 @@ Hello! I'm **Emna Othmen** 👋 – a passionate web developer specializing in m
 
 ## 🖥️ **Projects Demo Links**
 
+- [LifeQs – Social Forum Platform Demo](https://www.youtube.com/watch?v=uTFDQSRoYm8&t=36s)
 - [AI-Powered Talent Search and CV Management System Demo](https://www.youtube.com/watch?v=iz_Qoo0w5eo&t=120s)
 - [Vape Store E-commerce Platform Demo](https://www.youtube.com/watch?v=9yBf5LDiSpw&t=7s)
 - [Medical Appointment and Patient Management System Demo](https://github.com/emnaot/Dr-Antoine-Pelissolo)  
@@ -49,8 +50,8 @@ Hello! I'm **Emna Othmen** 👋 – a passionate web developer specializing in m
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emnaot&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Emna's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnaot&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=emnaot&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Emna's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnaot&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top languages"/>
 </p>
 
 ---
