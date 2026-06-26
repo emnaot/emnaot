@@ -20,16 +20,16 @@
 
 ## 👩‍💻 About me
 
-I'm **Emna Othmen**, a **Full-Stack & AI Engineer** from Tunisia, currently completing a **Master's in Software Engineering** (2024–2026).
+I'm **Emna Othmen**, a **Full-Stack & AI Engineer** from Tunisia.
 
-I build **distributed systems**, **cybersecurity platforms (SIEM/XDR)**, and **AI-powered applications** — from architecture to production.
+I build distributed systems, cybersecurity platforms (SIEM/XDR), and AI-powered applications — from architecture to production.
 
 ```text
-🔭  Latest role   →  Full-Stack & Cybersecurity Engineer Intern @ Neoxion Technologies
-🌱  Learning now  →  LLMs · RAG · AI Agents · Cloud-Native · Distributed Systems
-💬  Ask me about  →  NestJS · React · OpenSearch · Sigma Rules · ML Pipelines
-📫  Contact       →  emnaothmenn@gmail.com
-📍  Location      →  Tunisia (Remote-friendly)
+🔭  Currently      →  Full-Stack & Cybersecurity Engineer @ Neoxion Technologies
+🛠️  I work on      →  NestJS · React · OpenSearch · Kafka · Sigma Rules · ML Pipelines
+🌱  Learning now   →  LLMs · RAG · AI Agents · Cloud-Native · Distributed Systems
+📫  Contact        →  emnaothmenn@gmail.com
+📍  Location       →  Tunisia (Remote-friendly)
 ```
 
 ---
