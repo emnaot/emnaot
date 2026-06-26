@@ -1,6 +1,6 @@
 <!-- Header animé -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=200&section=header&text=Emna%20Othmen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=200&section=header&text=Emna%20Othmen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -20,12 +20,12 @@
 
 ## 👩‍💻 About me
 
-I'm **Emna Othmen**, a **Full-Stack & AI Engineer** from Tunisia.
+I'm **Emna Othmen**, a **Full-Stack & AI Developer** from Tunisia.
 
 I build distributed systems, cybersecurity platforms (SIEM/XDR), and AI-powered applications — from architecture to production.
 
 ```text
-🔭  Currently      →  Full-Stack & Cybersecurity Engineer @ Neoxion Technologies
+🔭  Currently      →  Freelance Full-Stack Developer
 🛠️  I work on      →  NestJS · React · OpenSearch · Kafka · Sigma Rules · ML Pipelines
 🌱  Learning now   →  LLMs · RAG · AI Agents · Cloud-Native · Distributed Systems
 📫  Contact        →  emnaothmenn@gmail.com
