@@ -1,6 +1,6 @@
 <!-- Header animé -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=200&section=header&text=Emna%20Othmen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=200&section=header&text=Emna%20Othmen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
