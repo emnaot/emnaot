@@ -20,16 +20,14 @@
 
 ## 👩‍💻 About me
 
-I'm **Emna Othmen**, a **Full-Stack & AI Developer** from Tunisia.
+🇹🇳 Full-Stack & AI Developer based in Tunisia, working as a freelancer.
 
-I build distributed systems and AI-powered applications — from architecture to production.
+I build **scalable web applications** and **AI-powered solutions** — from architecture to production.
 
-```text
-🔭  Currently      →  Freelance Full-Stack Developer
-🛠️  I work on      →  NestJS · React · OpenSearch · Kafka · Sigma Rules · ML Pipelines
-🌱  Learning now   →  LLMs · RAG · AI Agents · Cloud-Native · Distributed Systems
-📫  Contact        →  emnaothmenn@gmail.com
-📍  Location       →  Tunisia (Remote-friendly)
+| 🛠️ I work on | React · Next.js · NestJS · TypeScript · Python |
+|---|---|
+| 📫 Contact | emnaothmenn@gmail.com |
+| 🌍 Location | Tunisia — Remote-friendly |
 ```
 
 ---
@@ -108,16 +106,6 @@ I build distributed systems and AI-powered applications — from architecture to
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=emnaot&theme=radical&hide_border=true" />
 </p>
-
----
-
-## 🌱 Currently learning
-
-- 🤖 Large Language Models (LLMs) & Prompt Engineering
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents & Agentic Workflows
-- ☁️ Cloud-Native Architectures
-- ⚡ Distributed Systems
 
 ---
 
