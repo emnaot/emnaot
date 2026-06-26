@@ -111,14 +111,6 @@ I build distributed systems, cybersecurity platforms (SIEM/XDR), and AI-powered 
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=emnaot&theme=radical&hide_border=true&layout=compact" />
-</p>
-
----
-
 ## 📈 Contribution graph
 
 <p align="center">
