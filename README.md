@@ -1,25 +1,42 @@
-# 💻 Emna Othmen - Full-Stack & AI Developer
-
-> **"Building scalable software, AI-powered applications, and cybersecurity solutions."**
-
----
+<!-- Header animé -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=200&section=header&text=Emna%20Othmen&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emnaot&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/emna-othmen-121545275">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01f55fef7c13dc6959">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="mailto:emnaothmenn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=emnaot&label=Profile%20Views&color=6C3483&style=for-the-badge"/>
 </p>
-
-Hello! I'm **Emna Othmen** 👋
-
-I'm a **Full-Stack & AI Developer** from Tunisia, passionate about building scalable web applications, intelligent systems, and cybersecurity solutions.
-
-My interests include **Full-Stack Development**, **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Cloud Technologies**.
 
 ---
 
-# 🚀 Tech Stack
+## 👩‍💻 About me
 
-## 💻 Programming Languages
+I'm **Emna Othmen**, a **Full-Stack & AI Engineer** from Tunisia, currently completing a **Master's in Software Engineering** (2024–2026).
 
+I build **distributed systems**, **cybersecurity platforms (SIEM/XDR)**, and **AI-powered applications** — from architecture to production.
+
+```text
+🔭  Latest role   →  Full-Stack & Cybersecurity Engineer Intern @ Neoxion Technologies
+🌱  Learning now  →  LLMs · RAG · AI Agents · Cloud-Native · Distributed Systems
+💬  Ask me about  →  NestJS · React · OpenSearch · Sigma Rules · ML Pipelines
+📫  Contact       →  emnaothmenn@gmail.com
+📍  Location      →  Tunisia (Remote-friendly)
+```
+
+---
+
+## 🚀 Tech stack
+
+### 💻 Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -29,48 +46,35 @@ My interests include **Full-Stack Development**, **Artificial Intelligence**, **
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-## 🎨 Frontend
-
+### 🎨 Frontend
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
----
-
-## ⚙️ Backend
-
+### ⚙️ Backend
 <p>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
----
-
-## 🗄️ Databases
-
+### 🗄️ Databases & Streaming
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
----
-
-## 🤖 AI & Machine Learning
-
+### 🤖 AI & Machine Learning
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -78,127 +82,63 @@ My interests include **Full-Stack Development**, **Artificial Intelligence**, **
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-- Machine Learning
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- ML Pipelines
-- Random Cut Forest
-- Anomaly Detection
+`Machine Learning` `Data Preprocessing` `Feature Engineering` `Model Evaluation` `ML Pipelines` `Random Cut Forest` `Anomaly Detection`
 
----
+### 🔐 Cybersecurity
+`SIEM / XDR` `Sigma Rules (1500+)` `MITRE ATT&CK` `OpenSearch` `Kafka Connect` `WinRM` `Sysmon` `Winlogbeat` `JWT` `mTLS / PKI (RSA 4096)` `DPAPI`
 
-## 🔐 Cybersecurity
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-</p>
-
-- SIEM / XDR
-- Sigma Rules
-- MITRE ATT&CK
-- Kafka Connect
-- Docker Compose
-- WinRM
-- Sysmon
-- Winlogbeat
-- JWT
-- mTLS / PKI
-- DPAPI
-
----
-
-## ☁️ Cloud & DevOps
-
+### ☁️ Cloud & DevOps
 <p>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-- Azure AI
-- Azure Entra ID
-- Microsoft Graph API
-- CI/CD
-- Jira
-- Postman
-- DBeaver
-- AKHQ
+`Azure AI` `Azure Entra ID` `Microsoft Graph API` `CI/CD` `Docker Compose`
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=emnaot&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnaot&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emnaot&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emnaot&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=emnaot&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emnaot&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emnaot&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emnaot&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emnaot&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emnaot&theme=radical&utcOffset=1"/>
+  <img src="https://streak-stats.demolab.com/?user=emnaot&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emnaot&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=emnaot&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emnaot&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emnaot&bg_color=141321&color=A9FEF7&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently learning
 
-- 🤖 Large Language Models (LLMs)
+- 🤖 Large Language Models (LLMs) & Prompt Engineering
 - 🔍 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents
+- 🤖 AI Agents & Agentic Workflows
 - ☁️ Cloud-Native Architectures
-- 🔐 Advanced Cybersecurity
 - ⚡ Distributed Systems
 
 ---
 
-# 🤝 Connect With Me
+> *"Passionate about building secure, scalable, and intelligent software that solves real-world problems."*
 
-<p align="left">
-<a href="https://www.linkedin.com/in/emna-othmen-121545275">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~01f55fef7c13dc6959">
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-
-<a href="mailto:emnaothmenn@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-> **"Passionate about building secure, scalable, and intelligent software that solves real-world problems."**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=100&section=footer" width="100%"/>
+</div>
