@@ -22,7 +22,7 @@
 
 I'm **Emna Othmen**, a **Full-Stack & AI Developer** from Tunisia.
 
-I build distributed systems, cybersecurity platforms (SIEM/XDR), and AI-powered applications — from architecture to production.
+I build distributed systems and AI-powered applications — from architecture to production.
 
 ```text
 🔭  Currently      →  Freelance Full-Stack Developer
