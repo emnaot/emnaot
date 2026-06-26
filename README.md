@@ -24,12 +24,6 @@
 
 I build **scalable web applications** and **AI-powered solutions** — from architecture to production.
 
-| 🛠️ I work on | React · Next.js · NestJS · TypeScript · Python |
-|---|---|
-| 📫 Contact | emnaothmenn@gmail.com |
-| 🌍 Location | Tunisia — Remote-friendly |
-```
-
 ---
 
 ## 🚀 Tech stack
