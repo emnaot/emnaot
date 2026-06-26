@@ -111,14 +111,6 @@ I build distributed systems and AI-powered applications — from architecture to
 
 ---
 
-## 📈 Contribution graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emnaot&bg_color=141321&color=A9FEF7&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently learning
 
 - 🤖 Large Language Models (LLMs) & Prompt Engineering
