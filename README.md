@@ -114,7 +114,7 @@ I build distributed systems, cybersecurity platforms (SIEM/XDR), and AI-powered 
 ## 🏆 GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emnaot&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emnaot&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" />
 </p>
 
 ---
